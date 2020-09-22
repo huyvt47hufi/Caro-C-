@@ -1,0 +1,17 @@
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.csprojAssemblyReference.cache
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.Properties.Resources.resources
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.csproj.GenerateResource.cache
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.exe.config
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.exe
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.pdb
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.exe
+E:\Năm 3\Phát triển phần mềm và ứng dụng thông minh\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.pdb
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.exe.config
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.exe
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\bin\Debug\Bai1ThietKeGiaoDien.pdb
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.csprojAssemblyReference.cache
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.Properties.Resources.resources
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.csproj.GenerateResource.cache
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.exe
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.pdb
+E:\Nam 3 HK2\Phat Trien Phan Mem Va Ung Dung Thong Minh\BTVN\Bai1ThietKeGiaoDien\Bai1ThietKeGiaoDien\obj\Debug\Bai1ThietKeGiaoDien.csproj.CoreCompileInputs.cache
